@@ -1,0 +1,26 @@
+{
+    "name": "vue-storage",
+    "version": "1.4.2",
+    "description": "storage for vue",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-jest": "^22.4.3",
+        "babel-preset-env": "^1.7.0",
+        "babel-loader": "^7.1.5",
+        "babel-plugin-dynamic-import-node": "^2.0.0",
+        "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+        "babel-plugin-transform-runtime": "^6.23.0",
+        "babel-preset-stage-2": "^6.24.1",
+        "jest": "^22.4.3",
+        "webpack": "^4.8.3"
+    },
+    "scripts": {
+        "test": "jest ./test.js"
+    },
+    "repository": {},
+    "keywords": ["vue-storage", "storage", "vue", "localStorage", "sessionStorage", "memoryStorage"],
+    "author": "andy.lv",
+    "license": "ISC"
+}
